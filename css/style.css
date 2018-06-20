@@ -1,0 +1,96 @@
+#my-img:hover {
+    content: url('../img/icone/icone-youtube_1.png');
+}
+/***********************************************/
+
+.disable
+    {
+        opacity: 0.6;
+        color: #C0C0C0;
+    }
+.small
+    {
+        font-size: 70%;
+    } 
+.course
+    {
+        font-size: 180%;
+    }    
+.module
+    {
+        font-size: 160%;
+        font-weight: bold;
+        color: red;
+    }  
+.part
+    {
+        font-size: 140%;
+        font-weight: bold;
+        color: green;        
+    }
+.conteudo
+    {
+        font-size: 120%;
+        color: blue;        
+    }     
+.borderb
+    {
+        border-bottom: 1px solid #000000;
+    } 
+div
+    {
+        border: 1px solid #808080;
+    }   
+/***********************************************/
+.shadown {
+    box-shadow: 0px 10px 8px #888888;
+}
+.margin5 {
+    margin: 10px;
+}
+.pad5
+    {
+        padding: 5px;
+    }
+.linka
+    {
+        color: #888888;
+    }
+.linka a
+    {
+        color: #888888;
+    }
+.cs_title
+    {
+        font-size: 200%;
+    }        
+.divx {
+    border: 1px solid #F0F0F0;
+    border-radius: 2px;
+    padding: 0px;
+}
+
+.img {
+    opacity: 0.8;
+}
+.img:hover {
+    opacity: 1;
+    -webkit-transition: opacity .15s ease-in-out;
+    -moz-transition: opacity .15s ease-in-out;
+    -ms-transition: opacity .15s ease-in-out;
+    -o-transition: opacity .15s ease-in-out;
+    transition: opacity .15s ease-in-out;
+}
+.shadown_box {
+    box-shadow: 0px 2px 8px #888888;
+}
+
+a {
+    opacity: 1;
+    text-decoration: none;
+    color: #000000;
+}
+a:hover {
+    /* opacity: 0.8; */
+    text-decoration: none;
+}
